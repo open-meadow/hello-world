@@ -5,7 +5,7 @@ So this is how github looks like from the other side. The markdown editor looks 
 
 Anywho. I'm a novice programmer. For me, reading open-source code is like reading a book where all the pages are written in different languages. Also, they're jumbled.
 
-Well, no more. For the first time ever (after everyone else), I've written a piece of code that can be understood by anyone, anywhere regardless of race, gender of programming ability. 
+Well, no more. For the first time ever (after everyone else), I've written a piece of code that can be understood by anyone, anywhere regardless of race, gender, programming ability or overall intelligence. 
 
 Without any further ado, I write these words for the thousandth time.
 
