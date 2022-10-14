@@ -9,4 +9,4 @@ Well, no more. For the first time ever (after everyone else), I've written a pie
 
 Without any further ado, I write these words for the thousandth time.
 
-HELLO F*CKING WORLD!!!!!!
+HELLO WORLD!!!!!!
